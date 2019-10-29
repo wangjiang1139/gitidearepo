@@ -21,5 +21,9 @@ package com.cn.cmbc.git;
 public class Demo0001 {
     public static void main(String[] args) {
         System.out.println("你好");
+        System.out.println("你好");
+        System.out.println("你好");
+        System.out.println("你好");
+        System.out.println("你好");
     }
 }
