@@ -25,5 +25,8 @@ public class Demo0001 {
         System.out.println("你好");
         System.out.println("你好");
         System.out.println("你好");
+        System.out.println("你好");
+        System.out.println("你好");
+        System.out.println("你好");
     }
 }
